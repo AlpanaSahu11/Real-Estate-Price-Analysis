@@ -95,7 +95,7 @@ For queries or contributions:
 - [salilsingh709@gmail.com](mailto:salilsingh709@gmail.com)  
 - [ashusinghdabas@gmail.com](mailto:ashusinghdabas@gmail.com)  
 - [mahamareedu962@gmail.com](mailto:mahamareedu962@gmail.com)  
-- [alpanasahu@gmail.com](mailto:alpanasahu11@gmail.com)  
+- [alpanasahu11@gmail.com](mailto:alpanasahu11@gmail.com)  
 
 ### **GitHub Profiles** :
 - [github.com/Mayur313](https://github.com/Mayur313)  
