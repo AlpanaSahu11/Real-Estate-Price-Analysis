@@ -78,10 +78,10 @@ Collected features include:
 ## **Dashboard Screenshot** :
 
 ## Page 1
-![Page 1](Images\Page1.png)
+![Page 1](Images/Page1.png)
 
 ## Page 2
-![Page 2](Images\Page2.png)
+![Page 2](Images/Page2.png)
 
 ---
 
